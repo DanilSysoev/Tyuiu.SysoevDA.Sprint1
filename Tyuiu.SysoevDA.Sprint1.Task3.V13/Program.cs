@@ -39,7 +39,7 @@ namespace Tyuiu.SysoevDA.Sprint1.Task3.V13
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine($"Произведение цифр заданного трехзначного числа = {ds.MultiplyOfDigits(number)}");
+            Console.WriteLine($"Произведение цифр заданного трехзначного числа = {ds.MultiplyOfDigits(number)}"); 
             Console.ReadLine();
         }
     }
